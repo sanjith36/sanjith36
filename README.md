@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**sanjith36/sanjith36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Hi there, I'm Sanjith S! 👋**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a third-year Computer Science and Artificial Intelligence undergraduate at TKM College of Engineering (TKMCE). I'm currently diving into the open-source ecosystem and am excited to collaborate, learn, and build impactful software alongside the global developer community.
+
+
+- 🌱 I’m currently learning Java,Python and ML
+- 👯 I’m looking to collaborate on open sourceprojects
+- 📫 reach me at sanjiths351@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a newbiee
